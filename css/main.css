@@ -63,6 +63,7 @@ a:hover {
   height: 100%;
   overflow: auto;
   padding-bottom: 60px;
+  background: #fff;
 }
 
 .listings .item {
@@ -136,7 +137,7 @@ a:hover {
 }
 
 .mapboxgl-popup-content h3 {
-  background: #AB3848;
+  /*background: #AB3848;*/
   color: #fff;
   margin: 0;
   display: block;
