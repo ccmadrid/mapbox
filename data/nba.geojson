@@ -1,0 +1,643 @@
+      {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -79.379,
+                43.6435
+              ]
+            },
+            "properties": {
+              "team": "Raptors",
+              "arena": "Air Canada Centre",
+              "address": "40 Bay Street",
+              "city": "Toronto",
+              "country": "Canada",
+              "state": "Ontario",
+              "conference": "East",
+              "c1": "#CE1141",
+              "c2": "#C4CED3"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -80.188,
+                25.781
+              ]
+            },
+            "properties": {
+              "team": "Heat",
+              "arena": "American Airlines Arena",
+              "address": "601 Biscayne Boulevard",
+              "city": "Miami",
+              "country": "United States",
+              "state": "Florida",
+              "conference": "East",
+              "c1": "#98002E",
+              "c2": "#F9A01B"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -96.810,
+                32.791
+              ]
+            },
+            "properties": {
+              "team": "Mavericks",
+              "arena": "American Airlines Center",
+              "address": "62500 Victory Avenue",
+              "city": "Dallas",
+              "country": "United States",
+              "state": "Texas",
+              "conference": "West",
+              "c1": "#007DC5",
+              "c2": "#C4CED3"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -81.384,
+                28.539
+              ]
+            },
+            "properties": {
+              "team": "Magic",
+              "arena": "Amway Center",
+              "address": "400 West Church Street",
+              "city": "Orlando",
+              "country": "United States",
+              "state": "Florida",
+              "conference": "East",
+              "c1": "#007DC5",
+              "c2": "#C4CED3"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -98.437,
+                29.427
+              ]
+            },
+            "properties": {
+              "team": "Spurs",
+              "arena": "AT&T Center",
+              "address": "1 AT&T Center Parkway",
+              "city": "San Antonio",
+              "country": "United States",
+              "state": "Texas",
+              "conference": "West",
+              "c1": "#B6BFBF",
+              "c2": "#FFFFFF"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -86.156,
+                39.764
+              ]
+            },
+            "properties": {
+              "team": "Pacers",
+              "arena": "AT&T Bankers Life Fieldhouse",
+              "address": "125 South Pennsylvania Street",
+              "city": "Indiana",
+              "country": "United States",
+              "state": "Indianapolis",
+              "conference": "East",
+              "c1": "#00275D",
+              "c2": "#FFC633"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -73.975,
+                40.683
+              ]
+            },
+            "properties": {
+              "team": "Nets",
+              "arena": "Barclays Center",
+              "address": "620 Atlantic Avenue",
+              "city": "Brooklyn",
+              "country": "United States",
+              "state": "New York",
+              "conference": "East",
+              "c1": "#fff",
+              "c2": "#000"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -87.917,
+                43.044
+              ]
+            },
+            "properties": {
+              "team": "Bucks",
+              "arena": "BMO Harris Bradley Center",
+              "address": "1001 North Fourth Street",
+              "city": "Milwaulkee",
+              "country": "United States",
+              "state": "Wisconsin",
+              "conference": "East",
+              "c1": "#00471B",
+              "c2": "#EEE1C6"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -97.515,
+                35.463
+              ]
+            },
+            "properties": {
+              "team": "Thunder",
+              "arena": "Chesapeake Energy Arena",
+              "address": "100 West Reno Avenue",
+              "city": "Oklahoma City",
+              "country": "United States",
+              "state": "Oklahoma",
+              "conference": "West",
+              "c1": "#007DC3",
+              "c2": "#F05133"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -90.052,
+                35.138
+              ]
+            },
+            "properties": {
+              "team": "Grizzlies",
+              "arena": "FedExForum",
+              "address": "191 Beale Street",
+              "city": "Memphis",
+              "country": "United States",
+              "state": "Tennessee",
+              "conference": "West",
+              "c1": "#23375B",
+              "c2": "#6189B9"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -121.50,
+                38.580
+              ]
+            },
+            "properties": {
+              "team": "Kings",
+              "arena": "Golden 1 Center",
+              "address": "500 David J. Stern Walk",
+              "city": "Sacramento",
+              "country": "United States",
+              "state": "California",
+              "conference": "West",
+              "c1": "#724C9F",
+              "c2": "#8E9090"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -73.986,
+                40.743
+              ]
+            },
+            "properties": {
+              "team": "Knicks",
+              "alt": "New York",
+              "arena": "Madison Square Garden",
+              "address": "4 Pennsylvania Plaza",
+              "city": "New York City",
+              "country": "United States",
+              "state": "New York",
+              "conference": "East",
+              "c1": "#006BB6",
+              "c2": "#F58426"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -122.667,
+                45.531
+              ]
+            },
+            "properties": {
+              "team": "Trail Blazers",
+              "arena": "Moda Center",
+              "address": "1 Center Court",
+              "city": "Portland",
+              "country": "United States",
+              "state": "Oregon",
+              "conference": "West",
+              "c1": "#F0163A",
+              "c2": "#B6BFBF"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -122.203,
+                37.751
+              ]
+            },
+            "properties": {
+              "team": "Warriors",
+              "alt": "Golden State",
+              "arena": "Oracle Arena",
+              "address": "7000 Coliseum Way",
+              "city": "Oakland",
+              "country": "United States",
+              "state": "California",
+              "conference": "West",
+              "c1": "#006BB6",
+              "c2": "#FDB927"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -105.007,
+                39.749
+              ]
+            },
+            "properties": {
+              "team": "Nuggets",
+              "arena": "Pepsi Center",
+              "address": "1000 Chopper Circle",
+              "city": "Denver",
+              "country": "United States",
+              "state": "Colorado",
+              "conference": "West",
+              "c1": "#4FA8FF",
+              "c2": "#FFB20F"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -84.396,
+                33.758
+              ]
+            },
+            "properties": {
+              "team": "Hawks",
+              "arena": "Philips Arena",
+              "address": "1 Philips Drive",
+              "city": "Atlanta",
+              "country": "United States",
+              "state": "Georgia",
+              "conference": "East",
+              "c1": "#E03A3E",
+              "c2": "#C3D600"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -81.690,
+                41.497
+              ]
+            },
+            "properties": {
+              "team": "Cavaliers",
+              "arena": "Quicken Loans Arena",
+              "address": "1 Center Court",
+              "city": "Cleveland",
+              "country": "United States",
+              "state": "Ohio",
+              "conference": "East",
+              "c1": "#860038",
+              "c2": "#FDBB30"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -90.082,
+                29.949
+              ]
+            },
+            "properties": {
+              "team": "Pelicans",
+              "arena": "Smoothie King Center",
+              "address": "1501 Dave Dixon Drive",
+              "city": "New Orleans",
+              "country": "United States",
+              "state": "Louisiana",
+              "conference": "West",
+              "c1": "#002B5C",
+              "c2": "#B4975A"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -80.840,
+                35.225
+              ]
+            },
+            "properties": {
+              "team": "Hornets",
+              "arena": "Spectrum Center",
+              "address": "333 East Trade Street",
+              "city": "Charlotte",
+              "country": "United States",
+              "state": "North Carolina",
+              "conference": "East",
+              "c1": "#1D1160",
+              "c2": "#008CA8"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -118.267,
+                34.043
+              ]
+            },
+            "properties": {
+              "team": "Clippers",
+              "arena": "Staples Center",
+              "address": "1111 South Figueroa Street",
+              "city": "Los Angeles",
+              "country": "United States",
+              "state": "California",
+              "conference": "West",
+              "c1": "#ED174C",
+              "c2": "#006BB6"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -118.267,
+                34.0425
+              ]
+            },
+            "properties": {
+              "team": "Lakers",
+              "arena": "Staples Center",
+              "address": "1111 South Figueroa Street",
+              "city": "Los Angeles",
+              "country": "United States",
+              "state": "California",
+              "conference": "West",
+              "c1": "#552582",
+              "c2": "#FDB927"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -112.071,
+                33.447
+              ]
+            },
+            "properties": {
+              "team": "Suns",
+              "arena": "Talking Stick Resort Arena",
+              "address": "201 East Jefferson Street",
+              "city": "Phoenix",
+              "country": "United States",
+              "state": "Arizona",
+              "conference": "West",
+              "c1": "#E56020",
+              "c2": "#1D1160"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -93.276,
+                44.980
+              ]
+            },
+            "properties": {
+              "team": "Timberwolves",
+              "arena": "Target Center",
+              "address": "600 First Avenue North",
+              "city": "Minnesota",
+              "country": "United States",
+              "state": "Minneapolis",
+              "conference": "West",
+              "c1": "#005083",
+              "c2": "#C4CED3"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -71.061,
+                42.367
+              ]
+            },
+            "properties": {
+              "team": "Celtics",
+              "arena": "TD Garden",
+              "address": "100 Legends Way",
+              "city": "Boston",
+              "country": "United States",
+              "state": "Massachusetts",
+              "conference": "East",
+              "c1": "#008348",
+              "c2": "#000000"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -83.246,
+                42.696
+              ]
+            },
+            "properties": {
+              "team": "Pistons",
+              "arena": "The Palace of Auburn Hills",
+              "address": "  6 Championship Drive",
+              "city": "Detroit",
+              "country": "United States",
+              "state": "Michigan",
+              "conference": "East",
+              "c1": "#006BB6",
+              "c2": "#ED174C"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -95.362,
+                29.751
+              ]
+            },
+            "properties": {
+              "team": "Rockets",
+              "arena": "Toyota Center",
+              "address": "1510 Polk Street",
+              "city": "Houston",
+              "country": "United States",
+              "state": "Texas",
+              "conference": "West",
+              "c1": "#CE1141",
+              "c2": "#C4CED3"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -87.675,
+                41.881
+              ]
+            },
+            "properties": {
+              "team": "Bulls",
+              "arena": "United Center",
+              "address": "1901 West Madison Street",
+              "city": "Chicago",
+              "country": "United States",
+              "state": "Illinois",
+              "conference": "East",
+              "c1": "#CE1141",
+              "c2": "#FFFFFF"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -77.021,
+                38.897
+              ]
+            },
+            "properties": {
+              "team": "Wizards",
+              "arena": "Verizon Center",
+              "address": "601 F Street Northwest",
+              "city": "Washington",
+              "country": "United States",
+              "state": "District of Columbia",
+              "conference": "East",
+              "c1": "#002566",
+              "c2": "#F5002F"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -111.900,
+                40.769
+              ]
+            },
+            "properties": {
+              "team": "Jazz",
+              "alt": "Utah",
+              "arena": "Vivint Smart Home Arena",
+              "address": "301 West South Temple",
+              "city": "Salt Lake City",
+              "country": "United States",
+              "state": "Utah",
+              "conference": "West",
+              "c1": "#002B5C",
+              "c2": "#F9A01B"
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -75.174,
+                39.905
+              ]
+            },
+            "properties": {
+              "team": "76ers",
+              "arena": "Wells Fargo Center",
+              "address": "  3601 South Broad Street",
+              "city": "Philadelphia",
+              "country": "United States",
+              "state": "Pennsylvania",
+              "conference": "East",
+              "c1": "#006BB6",
+              "c2": "#ED174C"
+            }
+          }
+
+
+
+
+        ]
+      }
+
